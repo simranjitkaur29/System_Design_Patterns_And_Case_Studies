@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design Tic Tac Toe/Design Tic Tac Toe.iml" filepath="$PROJECT_DIR$/Design Tic Tac Toe/Design Tic Tac Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiabraryManageMentSystem/LiabraryManageMentSystem.iml" filepath="$PROJECT_DIR$/LiabraryManageMentSystem/LiabraryManageMentSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/System Design Patterns And Case Studies.iml" filepath="$PROJECT_DIR$/.idea/System Design Patterns And Case Studies.iml" />
     </modules>
   </component>
